@@ -1,14 +1,23 @@
 {
-  "name": "cypress-rahulshetty",
+  "name": "cypress",
   "version": "1.0.0",
-  "description": "",
+  "description": "Following are the steps to run Cypress Project:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "HKHR",
+  "author": "Indrani",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^9.5.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inddes/HKHR-Cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inddes/HKHR-Cypress/issues"
+  },
+  "homepage": "https://github.com/inddes/HKHR-Cypress#readme"
 }
